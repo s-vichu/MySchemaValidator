@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="1" hostname="Viswanathans-MacBook-Pro.local" id="0" name="TestSuite$1" package="junit.framework" tests="1" time="0.433" timestamp="2016-06-24T16:38:44">
+      <properties />
+
+      <testcase classname="junit.framework.TestSuite$1" name="warning" time="0.388">
+          <failure message="junit.framework.AssertionFailedError: No tests found in com.nimis.ngschemavalidator.JsonvalidatorServiceTests" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: No tests found in com.nimis.ngschemavalidator.JsonvalidatorServiceTests
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from warning--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from warning--
+]]></system-err>
+
+  </testsuite>
+</testsuites>

@@ -1,0 +1,10 @@
+<plugin name='myschemavalidator' version='0.1' grailsVersion='2.4 &gt; *'>
+  <author>Viswanathan Srinivasan</author>
+  <title>Myschemavalidator Plugin</title>
+  <description>Brief summary/description of the plugin.
+</description>
+  <type>MyschemavalidatorGrailsPlugin</type>
+  <resources>
+    <resource>com.my.myschemavalidator.JsonvalidatorService</resource>
+  </resources>
+</plugin>
